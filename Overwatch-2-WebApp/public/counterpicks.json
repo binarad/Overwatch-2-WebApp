@@ -1,0 +1,596 @@
+[
+  {
+    "hero": "D.Va",
+    "type": "tank",
+    "counteredby": [
+      "Brigitte",
+      "Doomfist",
+      "Moira",
+      "Reaper",
+      "Roadhog",
+      "Sigma",
+      "Symmetra",
+      "Winston",
+      "Zarya"
+    ]
+  },
+  {
+    "hero": "Doomfist",
+    "type": "tank",
+    "counteredby": [
+      "Ana",
+      "Ashe",
+      "Brigitte",
+      "Cassidy",
+      "Mei",
+      "Pharah",
+      "Roadhog"
+    ]
+  },
+
+  {
+    "hero": "Junker Queen",
+    "type": "tank",
+    "counteredby": [
+      "Ana",
+      "Ashe",
+      "Baptiste",
+      "Cassidy",
+      "Pharah",
+      "Soldier: 76",
+      "Widowmaker",
+      "Zenyatta"
+    ]
+  },
+
+  {
+    "hero": "Mauga",
+    "type": "tank",
+    "counteredby": [
+      "Ana", 
+      "Bastion", 
+      "D.Va", 
+      "Genji", 
+      "Kiriko", 
+      "Sigma"]
+  },
+
+  {
+    "hero": "Orisa",
+    "type": "tank",
+    "counteredby": [
+      "Ana",
+      "Ashe",
+      "Baptiste",
+      "D.Va",
+      "Echo",
+      "Hanzo",
+      "Kiriko",
+      "Pharah",
+      "Reaper",
+      "Sojourn",
+      "Sombra",
+      "Soldier: 76",
+      "Widowmaker",
+      "Zenyatta"
+    ]
+  },
+
+  {
+    "hero": "Ramattra",
+    "type": "tank",
+    "counteredby": [
+      "Ana",
+      "Bastion",
+      "D.Va",
+      "Kiriko",
+      "Mauga",
+      "Orisa",
+      "Roadhog",
+      "Symmetra",
+      "Tracer",
+      "Zenyatta"
+    ]
+  },
+
+  {
+    "hero": "Reinhardt",
+    "type": "tank",
+    "counteredby": [
+      "Ana",
+      "Brigitte",
+      "Junkrat",
+      "Mei",
+      "Pharah",
+      "Reaper",
+      "Sombra",
+      "Tracer"
+    ]
+  },
+
+  {
+    "hero": "Roadhog",
+    "type": "tank",
+    "counteredby": [
+      "Ana",
+      "Genji",
+      "Echo",
+      "Junkrat",
+      "Pharah",
+      "Reaper",
+      "Sombra",
+      "Tracer",
+      "Widowmaker"
+    ]
+  },
+
+  {
+    "hero": "Sigma",
+    "type": "tank",
+    "counteredby": [
+      "Genji",
+      "Lucio",
+      "Moira",
+      "Sombra",
+      "Symmetra",
+      "Tracer",
+      "Zarya"
+    ]
+  },
+
+  {
+    "hero": "Winston",
+    "type": "tank",
+    "counteredby": [
+      "Ana", 
+      "Bastion", 
+      "Brigitte", 
+      "Mauga", 
+      "Mei", 
+      "Roadhog"]
+  },
+
+  {
+    "hero": "Wrecking Ball",
+    "type": "tank",
+    "counteredby": [
+      "Ana", 
+      "Brigitte", 
+      "Mei", 
+      "Roadhog", 
+      "Torbjorn"]
+  },
+
+  {
+    "hero": "Zarya",
+    "type": "tank",
+    "counteredby": [
+      "Ashe", 
+      "Bastion", 
+      "D.Va", 
+      "Echo", 
+      "Pharah", 
+      "Widowmaker"]
+  },
+
+  {
+    "hero": "Ashe",
+    "type": "damage",
+    "counteredby": [
+      "Doomfist",
+      "Echo",
+      "Genji",
+      "Mauga",
+      "Reaper",
+      "Roadhog",
+      "Soldier: 76",
+      "Sombra",
+      "Tracer"
+    ]
+  },
+
+  {
+    "hero": "Bastion",
+    "type": "damage",
+    "counteredby": [
+      "Ana",
+      "Genji",
+      "Junkrat",
+      "Pharah",
+      "Roadhog",
+      "Sigma",
+      "Sombra",
+      "Tracer",
+      "Zarya"
+    ]
+  },
+
+  {
+    "hero": "Cassidy",
+    "type": "damage",
+    "counteredby": [
+      "Ana", 
+      "Ashe", 
+      "Bastion", 
+      "Genji", 
+      "Hanzo", 
+      "Widowmaker"]
+  },
+
+  {
+    "hero": "Echo",
+    "type": "damage",
+    "counteredby": [
+      "Ana",
+      "Ashe",
+      "Baptiste",
+      "Cassidy",
+      "D.Va",
+      "Junker Queen",
+      "Mauga",
+      "Moira",
+      "Reaper",
+      "Soldier: 76",
+      "Widowmaker",
+      "Zarya"
+    ]
+  },
+
+  {
+    "hero": "Genji",
+    "type": "damage",
+    "counteredby": [
+      "Brigitte",
+      "Mei",
+      "Moira",
+      "Symmetra",
+      "Winston",
+      "Zarya",
+      "Sombra"
+    ]
+  },
+
+  {
+    "hero": "Hanzo",
+    "type": "damage",
+    "counteredby": [
+      "D.Va",
+      "Genji",
+      "Lucio",
+      "Moira",
+      "Pharah",
+      "Sombra",
+      "Tracer",
+      "Wrecking Ball"
+    ]
+  },
+
+  {
+    "hero": "Junkrat",
+    "type": "damage",
+    "counteredby": [
+      "Ashe",
+      "D.va",
+      "Cassidy",
+      "Echo",
+      "Genji",
+      "Lucio",
+      "Pharah",
+      "Reaper",
+      "Roadhog",
+      "Soldier: 76",
+      "Sombra",
+      "Tracer",
+      "Wrecking Ball"
+    ]
+  },
+
+  {
+    "hero": "Mei",
+    "type": "damage",
+    "counteredby": [
+      "Echo", 
+      "Pharah", 
+      "Reaper", 
+      "Sombra", 
+      "Tracer"]
+  },
+
+  {
+    "hero": "Pharah",
+    "type": "damage",
+    "counteredby": [
+      "Ana",
+      "Ashe",
+      "Baptiste",
+      "Cassidy",
+      "D.va",
+      "Soldier: 76",
+      "Sombra",
+      "Torbjorn",
+      "Widowmaker"
+    ]
+  },
+
+  {
+    "hero": "Reaper",
+    "type": "damage",
+    "counteredby": [
+      "Ana",
+      "Ashe",
+      "Echo",
+      "Junkrat",
+      "Pharah",
+      "Ramattra",
+      "Widowmaker"
+    ]
+  },
+
+  {
+    "hero": "Sojourn",
+    "type": "damage",
+    "counteredby": [
+      "D.Va",
+      "Lucio",
+      "Orisa",
+      "Reaper",
+      "Tracer",
+      "Sigma",
+      "Sombra",
+      "Zarya"
+    ]
+  },
+
+  {
+    "hero": "Soldier: 76",
+    "type": "damage",
+    "counteredby": [
+      "Ana",
+      "Cassidy",
+      "D.va",
+      "Junkrat",
+      "Reaper",
+      "Roadhog",
+      "Widowmaker"
+    ]
+  },
+
+  {
+    "hero": "Sombra",
+    "type": "damage",
+    "counteredby": [
+      "Ana",
+      "Brigitte",
+      "Junkrat",
+      "Mei",
+      "Moira",
+      "Pharah",
+      "Winston",
+      "Zarya"
+    ]
+  },
+
+  {
+    "hero": "Symmetra",
+    "type": "damage",
+    "counteredby": [
+      "Echo",
+      "Junkrat",
+      "Pharah",
+      "Reaper",
+      "Sombra",
+      "Tracer",
+      "Winston"
+    ]
+  },
+
+  {
+    "hero": "Torbjorn",
+    "type": "damage",
+    "counteredby": [
+      "Ana",
+      "Bastion",
+      "Junkrat",
+      "Pharah",
+      "Sombra",
+      "Widowmaker"
+    ]
+  },
+
+  {
+    "hero": "Tracer",
+    "type": "damage",
+    "counteredby": [
+      "Ana", 
+      "Junkrat", 
+      "Pharah", 
+      "Sombra", 
+      "Widowmaker"]
+  },
+
+  {
+    "hero": "Venture",
+    "type": "damage",
+    "counteredby": [
+      "Ana",
+      "Baptiste",
+      "D.Va",
+      "Pharah",
+      "Soldier: 76",
+      "Widowmaker"
+    ]
+  },
+
+  {
+    "hero": "Widowmaker",
+    "type": "damage",
+    "counteredby": [
+      "D.va", 
+      "Genji", 
+      "Sombra", 
+      "Tracer", 
+      "Winston"]
+  },
+
+  {
+    "hero": "Ana",
+    "type": "support",
+    "counteredby": [
+      "Echo",
+      "Genji",
+      "Lucio",
+      "Moira",
+      "Pharah",
+      "Sombra",
+      "Tracer"
+    ]
+  },
+
+  {
+    "hero": "Baptiste",
+    "type": "support",
+    "counteredby": [
+      "Ana",
+      "Echo",
+      "Genji",
+      "Hanzo",
+      "Lucio",
+      "Pharah",
+      "Reaper",
+      "Roadhog",
+      "Sombra",
+      "Tracer"
+    ]
+  },
+
+  {
+    "hero": "Brigitte",
+    "type": "support",
+    "counteredby": [
+      "Cassidy",
+      "Bastion",
+      "D.Va",
+      "Echo",
+      "Genji",
+      "Junkrat",
+      "Moira",
+      "Pharah",
+      "Sombra",
+      "Tracer",
+      "Widowmaker"
+    ]
+  },
+
+  {
+    "hero": "Illari",
+    "type": "support",
+    "counteredby": [
+      "Baptiste",
+      "D.Va",
+      "Genji",
+      "Lifeweaver",
+      "Orisa",
+      "Sombra"
+    ]
+  },
+
+  {
+    "hero": "Kiriko",
+    "type": "support",
+    "counteredby": [
+      "Ana",
+      "Ashe",
+      "Baptiste",
+      "Cassidy",
+      "Doomfist",
+      "Genji",
+      "Moira",
+      "Reaper",
+      "Sojourn",
+      "Tracer",
+      "Widowmaker",
+      "Wrecking Ball"
+    ]
+  },
+
+  {
+    "hero": "Lifeweaver",
+    "type": "support",
+    "counteredby": [
+      "Mauga",
+      "Mercy",
+      "Moira",
+      "Ramattra",
+      "Roadhog",
+      "Sombra",
+      "Widowmaker"
+    ]
+  },
+
+  {
+    "hero": "Lucio",
+    "type": "support",
+    "counteredby": [
+      "Ashe",
+      "Cassidy",
+      "Mauga",
+      "Moira",
+      "Soldier: 76",
+      "Symmetra",
+      "Torbjorn",
+      "Winston",
+      "Zarya"
+    ]
+  },
+
+  {
+    "hero": "Mercy",
+    "type": "support",
+    "counteredby": [
+      "Ana",
+      "Ashe",
+      "Baptiste",
+      "Cassidy",
+      "Genji",
+      "Moira",
+      "Reaper",
+      "Roadhog",
+      "Soldier: 76",
+      "Winston",
+      "Wrecking Ball"
+    ]
+  },
+
+  {
+    "hero": "Moira",
+    "type": "support",
+    "counteredby": [
+      "Ana",
+      "Ashe",
+      "Echo",
+      "Genji",
+      "Pharah",
+      "Reaper",
+      "Sojourn",
+      "Sombra",
+      "Soldier: 76",
+      "Widowmaker"
+    ]
+  },
+
+  {
+    "hero": "Zenyatta",
+    "type": "support",
+    "counteredby": [
+      "D.Va",
+      "Echo",
+      "Genji",
+      "Pharah",
+      "Reaper",
+      "Sigma",
+      "Tracer",
+      "Widowmaker"
+    ]
+  }
+]
+
