@@ -31,7 +31,7 @@ export const damageOptions: readonly SelectOptions[] = [
 	{ value: 'Pharah', label: 'Pharah' },
 	{ value: 'Reaper', label: 'Reaper' },
 	{ value: 'Sojourn', label: 'Sojourn' },
-	{ value: 'Solider: 76', label: 'Solider: 76' },
+	{ value: 'Soldier: 76', label: 'Soldier: 76' },
 	{ value: 'Sombra', label: 'Sombra' },
 	{ value: 'Symmetra', label: 'Symmetra' },
 	{ value: 'Torbjörn', label: 'Torbjörn' },
